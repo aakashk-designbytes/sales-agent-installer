@@ -1,0 +1,7 @@
+# Never commit filled-in answers files or local test configs (they contain secrets).
+answers.json
+*.answers.json
+test-config*.json
+*.log
+.DS_Store
+sales-agent.env
